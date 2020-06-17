@@ -3,3 +3,6 @@ def carpa(x,y):
 	
 def merhaba():
 		print("Hello World")
+		
+def harveySpector(anwalt)
+		print("Was macht Harvey Spector beruflich? Er ist ein ",anwalt)
