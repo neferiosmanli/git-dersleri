@@ -1,2 +1,2 @@
-def topla(x,y):
-		return x+y;
+def carpa(x,y):
+		return x*y;
